@@ -1,0 +1,87 @@
+
+================================================================================
+AMAZON FINANCIAL ANALYSIS REPORT - 2025 PEAK SALES YEAR
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Amazon achieved record financial performance in 2025, with total revenue of 
+$716.9 billion and operating income of $80.0 billion. This represents 12.4% 
+revenue growth and 16.6% operating income growth year-over-year.
+
+KEY METRICS
+--------------------------------------------------------------------------------
+Total Revenue (2025):              $716.9 billion
+Operating Income (2025):           $80.0 billion
+Net Income (2025):                 $77.7 billion
+Operating Margin:                  11.2%
+Diluted EPS:                       $7.17
+YoY Revenue Growth:                12.4%
+YoY Operating Income Growth:        16.6%
+YoY Net Income Growth:              31.3%
+
+SEGMENT BREAKDOWN
+--------------------------------------------------------------------------------
+North America:
+    Revenue:                         $426.3B (59.5%)
+    Operating Income:                $29.6B
+    Operating Margin:                6.9%
+    YoY Growth:                       10.0%
+
+International:
+    Revenue:                         $161.9B (22.6%)
+    Operating Income:                $4.7B
+    Operating Margin:                2.9%
+    YoY Growth:                       13.0%
+
+AWS (Amazon Web Services):
+    Revenue:                         $128.7B (18.0%)
+    Operating Income:                $45.6B
+    Operating Margin:                35.4%
+    YoY Growth:                       20.0%
+
+CRITICAL INSIGHTS
+--------------------------------------------------------------------------------
+1.  AWS is the profit engine, generating 57% of operating income from just 
+    18% of revenue. This high-margin business subsidizes retail expansion.
+
+2.  Operating margin improved 50 basis points despite competitive retail 
+    environment, driven by AWS profitability and operational efficiency.
+
+3.  Net income growth (31.3%) exceeded revenue growth (12.4%), indicating 
+    strong operating leverage and improved profitability.
+
+4.  AWS showed accelerating growth, reaching 20% YoY in 2025 and 24% in Q4, 
+    reflecting strong demand for cloud services and AI infrastructure.
+
+5.  International segment is emerging as a growth driver with 13% revenue 
+    growth, though profitability lags North America.
+
+CASH GENERATION
+--------------------------------------------------------------------------------
+Operating Cash Flow (TTM):          $139.5 billion
+Free Cash Flow (TTM):               ~$50+ billion
+Capital Intensity:                  Heavy investment in data centers,
+                                    infrastructure, and logistics
+
+FORWARD OUTLOOK
+--------------------------------------------------------------------------------
+• $200 billion capex plan for 2025 in AI, data centers, and infrastructure
+• AWS growth accelerating with AI/ML demand
+• Advertising business growing at 22%
+• Chips business showing triple-digit growth
+• International expansion continuing with strong momentum
+
+CONCLUSION
+--------------------------------------------------------------------------------
+Amazon's 2025 peak sales year demonstrates a company in transition. While 
+retail remains the revenue driver, AWS has become the profit engine. The 
+company's ability to invest heavily in future capabilities while maintaining 
+strong profitability positions it well for continued dominance in cloud 
+computing and e-commerce.
+
+The record operating income of $80B, combined with a $200B capex plan, 
+indicates management's confidence in long-term growth opportunities in AI, 
+cloud infrastructure, and next-generation services.
+
+Report Generated: 2026-04-05 00:00:19
